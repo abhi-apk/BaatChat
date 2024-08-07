@@ -1,4 +1,4 @@
-# baatchat
+# BaatChat
 
 An multi-person group chat app, displaying the significance of Chat in the current world where everyone is doing Baat (talking) over Chat, hence the name _**BaatChat**_.
 
