@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111732730411",
+    "project_id": "baachat-aa2d4",
+    "storage_bucket": "baachat-aa2d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111732730411:android:33f64e830520a5406bd86e",
+        "android_client_info": {
+          "package_name": "com.example.baatchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC90DNfkotOWXChfc-j2JazfSPXsMWPS1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
